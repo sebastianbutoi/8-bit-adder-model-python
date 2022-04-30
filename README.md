@@ -8,7 +8,8 @@ A python program has been developed to implement the model and to process the da
 ![8bitadder](https://user-images.githubusercontent.com/93223563/166125227-29ad236f-65a3-43a9-bd42-61e2c44973ba.png)
 
 
-
+&nbsp;
+&nbsp;
 ## The result
 
 ![Screenshot 2022-05-01 at 00 05 16](https://user-images.githubusercontent.com/93223563/166125458-eb55cad0-80dd-46e9-9bc3-7793fd61adac.png)
