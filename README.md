@@ -11,4 +11,5 @@ A python program has been developed to implement the model and to process the da
 <br/><br/>
 ## The result
 
-![Screenshot 2022-05-01 at 00 05 16](https://user-images.githubusercontent.com/93223563/166125458-eb55cad0-80dd-46e9-9bc3-7793fd61adac.png)
+![Screenshot 2022-05-01 at 00 17 22](https://user-images.githubusercontent.com/93223563/166125716-93b844b5-ae35-4486-bfbf-7424935fca11.png)
+
